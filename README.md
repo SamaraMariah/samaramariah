@@ -19,6 +19,8 @@
   
   <img align="right" alt="Sah-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/04d912556bfeff194248b9557e3493e1.gif">
   
+  ![Snake animation](https://github.com/samaramariah/samaramariah/blob/output/github-contribution-grid-snake.svg)
+ 
  
 </div>
 
