@@ -1,8 +1,8 @@
 ## Olá! Eu sou a Samara Mariah 
 
-- 🔭 Atualmente me aperfeiçoando na área tecnológica
-- 🌱 Estudando Sistemas de Informação
-- 😄 Pronomes: ela/dela
+- Tenho 19 anos 
+- Atualmente me aperfeiçoando na área tecnológica
+- Estudando Sistemas de Informação
 
 <div align="center">
   <a href="https://github.com/samaramariah">
