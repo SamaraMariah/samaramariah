@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Samara Mariah 
 
 - Tenho 19 anos 
-- Atualmente me aperfeiçoando na área tecnológica
+- Atualmente me aperfeiçoando na área tecnológica com foco no Desenvolvimento Web Front-end
 - Estudando Sistemas de Informação
 
 <div align="center">
