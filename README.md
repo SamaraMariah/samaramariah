@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Samara Mariah 
 
-- Tenho 20 anos 
+- Tenho 21 anos 
 - Estudando Sistemas de Informação
 
 <div align="center">
