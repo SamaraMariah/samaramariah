@@ -3,11 +3,6 @@
 - Tenho 22 anos 
 - Estudando Sistemas de Informação
 
-<div align="center">
-  <a href="https://github.com/samaramariah">
-  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=samaramariah&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samaramariah&layout=compact&langs_count=7&theme=midnight-purple"/>
-
     
 </div>
 <div style="display: inline_block"><br>
